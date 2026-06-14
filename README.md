@@ -45,12 +45,14 @@ A technical design framework for vehicles that structurally reduce accident risk
 * [Overview](#overview)
 * [SEO Metadata](#seo-metadata)
 * [1. Core Principle](#1-core-principle)
+* [Prior Public Proposal](#prior-public-proposal)
 * [2. Why Top-Speed-Centered Design Becomes a Structural Risk](#2-why-top-speed-centered-design-becomes-a-structural-risk)
 * [3. The Contradiction Between Legal Speed Limits and Vehicle Capability](#3-the-contradiction-between-legal-speed-limits-and-vehicle-capability)
 * [4. Human Psychology and the Temptation of Speed](#4-human-psychology-and-the-temptation-of-speed)
 * [5. From Driver Blame to Design Responsibility](#5-from-driver-blame-to-design-responsibility)
 * [6. System Architecture](#6-system-architecture)
 * [7. Legal-Speed-Linked Speed Governance](#7-legal-speed-linked-speed-governance)
+* [Hardware-Limited and Software-Governed Speed Architecture](#hardware-limited-and-software-governed-speed-architecture)
 * [8. In-Cabin Cameras and Driver Monitoring](#8-in-cabin-cameras-and-driver-monitoring)
 * [9. AI Monitoring of Lane Position, Following Distance, and Surroundings](#9-ai-monitoring-of-lane-position-following-distance-and-surroundings)
 * [10. Protection of Pedestrians, Bicycles, Motorcycles, and Scooters](#10-protection-of-pedestrians-bicycles-motorcycles-and-scooters)
@@ -88,6 +90,24 @@ Speed is not merely a performance value.
 Speed is directly connected to vehicle mass, reaction time, braking distance, collision energy, pedestrian fatality risk, and driver psychology.
 
 Therefore, future vehicle design should treat speed not as a freely exploitable capability, but as a **governed safety parameter for protecting life**.
+
+---
+
+## Prior Public Proposal
+
+Master publicly published a related traffic-safety proposal on May 3, 2025, before later industry announcements that emphasized SDV-based zero-accident mobility, AI agents, and infrastructure cooperation.
+
+The earlier proposal discussed speed governance, AI-assisted traffic safety, intersection communication infrastructure, pedestrian and two-wheeler protection, and vehicle-side speed control.
+
+Related article:
+
+- [Traffic Safety Revolution: The Sacrifices Caused by the Lack of Speed Control and Future Countermeasures](https://note.com/inchacomusho/n/n8d32f338f8f0)
+- [Traffic Safety Revolution 2: The Ultimate Vehicle Is the Vehicle That Does Not Cause Accidents](https://note.com/inchacomusho/n/n43c01b8465f0)
+
+This does not imply affiliation, adoption, endorsement, or influence.<br>
+However, later industry directions show that the core problem awareness — zero-accident mobility through vehicles, AI, and infrastructure cooperation — is becoming increasingly relevant.
+
+This framework extends that direction by emphasizing not only AI and infrastructure cooperation, but also vehicle-side speed governance, design responsibility, and the separation between engineering capability and public-road behavior.
 
 ---
 
@@ -235,6 +255,42 @@ For example, a temporary allowance such as +10 km/h may be considered in certain
 However, this framework does not define that number as a universal implementation rule. Actual thresholds must depend on local law, road design, insurance systems, safety validation, and regional regulation.
 
 The essential point is that unlimited excessive speed should not be treated as a normal public-road design condition.
+
+---
+
+## Hardware-Limited and Software-Governed Speed Architecture
+
+A zero-accident-oriented vehicle should not depend only on driver self-restraint or legal enforcement after violations occur.
+
+Speed limitation should be embedded into the vehicle architecture itself.
+
+This framework proposes a two-layer speed architecture:
+
+1. **Hardware-level maximum speed limitation**<br>
+   Public-road consumer vehicles should have a physical or ECU-level maximum speed limit appropriate for ordinary road use, for example around 120 km/h, depending on regional law and vehicle category.
+
+2. **Software-defined contextual speed governance**<br>
+   Within that hardware ceiling, software should adjust the allowable speed according to legal speed limits, road type, weather, visibility, traffic density, intersections, school zones, pedestrian proximity, two-wheeler proximity, and driver condition.
+
+This separates engineering reserve from public-road behavior.
+
+A vehicle may require mechanical margin for reliability, hill climbing, load, emergency operation, or testing.<br>
+However, that does not mean excessive public-road speed should remain freely accessible to ordinary drivers.
+
+In this model:
+
+- highways allow only legally permitted highway speeds plus limited safe tolerance,
+- ordinary roads follow legal speed limits,
+- school zones and residential areas trigger automatic slow-speed operation,
+- intersections trigger approach-speed reduction,
+- poor weather lowers the allowed speed,
+- pedestrians, children, bicycles, motorcycles, and scooters trigger additional safety reduction,
+- driver drowsiness or impairment risk triggers stricter speed limitation or safe-stop support.
+
+This framework does not define 120 km/h as a universal legal standard.<br>
+It uses it only as an example of a public-road hardware ceiling for discussion.
+
+Actual values must be determined by vehicle class, jurisdiction, emergency requirements, road design, and regulatory approval.
 
 ---
 
@@ -622,6 +678,9 @@ What is needed is a transformation of vehicle design philosophy.
 
 > The ultimate vehicle is not the vehicle with the highest top speed.
 > The ultimate vehicle is the vehicle that structurally reduces accident risk and protects life.
+
+The technical direction of the automotive industry is beginning to approach parts of this framework through ISA, driver monitoring, ADAS, SDV, AI agents, and infrastructure cooperation.<br>
+However, the full framework goes further by proposing a structural shift from speed-performance-centered design to life-protection-centered design.
 
 This framework is a first step toward that transformation.
 
