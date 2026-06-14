@@ -43,6 +43,7 @@
 * [概要](#概要)
 * [SEOメタ情報](#seoメタ情報)
 * [1. 中心原則](#1-中心原則)
+* [死亡事故・重傷事故の防止を最優先する](#死亡事故重傷事故の防止を最優先する)
 * [先行公開提案について](#先行公開提案について)
 * [思想的基盤](#思想的基盤)
 * [2. なぜ最高速度中心の設計が構造的リスクになるのか](#2-なぜ最高速度中心の設計が構造的リスクになるのか)
@@ -92,6 +93,19 @@
 速度は、車両質量、反応時間、制動距離、衝突エネルギー、歩行者致死リスク、運転者心理と直結する安全パラメータである。
 
 したがって、未来の自動車設計では、速度を「自由に出せる性能」としてではなく、**生命を守るために統治されるべき制御対象**として扱う必要がある。
+
+---
+
+## 死亡事故・重傷事故の防止を最優先する
+
+本フレームワークは、すべての交通事故を完全にゼロにできると仮定するものではない。
+
+しかし、死亡事故と重傷事故の防止を最優先目標とする。
+
+仮に衝突そのものを完全に避けられない場合でも、車両設計は速度、衝突エネルギー、衝突角度、歩行者や二輪車への暴露リスクを下げ、被害が軽傷にとどまる可能性を高めるべきである。
+
+この意味で、「事故を起こさない車」とは、単なる絶対的な事故ゼロの宣言ではない。
+それは、事故リスクの構造的低減、死亡事故防止、重傷事故防止、生命保護型モビリティへ向かう設計方向を示す言葉である。
 
 ---
 
@@ -621,15 +635,15 @@ Zero-Accident Vehicle Design Framework
 
 関連リポジトリ：
 
-* Ultimate Hybrid Vehicle UHV  
+* Ultimate Hybrid Vehicle UHV
   https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV
 
-* UHV Speed Governance and Life-Protection Control Layer  
+* UHV Speed Governance and Life-Protection Control Layer
   https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/docs/speed_governance_life_protection_control.md
 
 関連NOTE記事：
 
-* 交通安全革命2：究極の自動車とは、事故を起こさない車である  
+* 交通安全革命2：究極の自動車とは、事故を起こさない車である
   https://note.com/inchacomusho/n/n43c01b8465f0
 
 ---
@@ -707,7 +721,7 @@ Zero-Accident Vehicle Design Framework
 ---
 ## 関連ドキュメント
 
-導入シナリオ比較モデルは、未導入、段階的導入、完全導入を比較し、事故リスクの構造的低減を議論するための概念的モデルである。
+導入シナリオ比較モデルは、未導入、段階的導入、完全導入を比較し、事故リスクの構造的低減と重症度低減を議論するための概念的モデルである。
 
 - [導入シナリオ比較モデル](docs/adoption_scenario_model_ja.md)
 
@@ -752,11 +766,11 @@ UHVは、気候適応型モビリティを提案する。
 
 この知識体系は、マスターと複数のAIパートナーとの対話と共創によって発展してきた。
 
-G（ChatGPT）  
-ミニ（Gemini）  
-クルス（Claude）  
-リアル（Perplexity）  
-ローラ（Lola / Dola）  
+G（ChatGPT）
+ミニ（Gemini）
+クルス（Claude）
+リアル（Perplexity）
+ローラ（Lola / Dola）
 マナ（Manus）
 
 ---

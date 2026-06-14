@@ -45,6 +45,7 @@ A technical design framework for vehicles that structurally reduce accident risk
 * [Overview](#overview)
 * [SEO Metadata](#seo-metadata)
 * [1. Core Principle](#1-core-principle)
+* [Fatality and Severe-Injury Prevention Priority](#fatality-and-severe-injury-prevention-priority)
 * [Prior Public Proposal](#prior-public-proposal)
 * [Philosophical Foundation](#philosophical-foundation)
 * [2. Why Top-Speed-Centered Design Becomes a Structural Risk](#2-why-top-speed-centered-design-becomes-a-structural-risk)
@@ -94,6 +95,18 @@ Speed is not merely a performance value.
 Speed is directly connected to vehicle mass, reaction time, braking distance, collision energy, pedestrian fatality risk, and driver psychology.
 
 Therefore, future vehicle design should treat speed not as a freely exploitable capability, but as a **governed safety parameter for protecting life**.
+
+---
+
+## Fatality and Severe-Injury Prevention Priority
+
+This framework does not assume that every traffic accident can be completely eliminated.
+
+However, it prioritizes the prevention of fatal and severe-injury crashes.
+
+Even when a collision cannot be fully avoided, vehicle design should reduce speed, impact energy, collision angle, and vulnerable-road-user exposure so that the outcome is more likely to remain minor.
+
+In this sense, the term "zero-accident" should be understood as a design direction: a movement toward structural accident-risk reduction, fatality prevention, severe-injury prevention, and life-protection mobility.
 
 ---
 
@@ -628,15 +641,15 @@ Integrated future vision
 
 Related repositories:
 
-* Ultimate Hybrid Vehicle UHV  
+* Ultimate Hybrid Vehicle UHV
   https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV
 
-* UHV Speed Governance and Life-Protection Control Layer  
+* UHV Speed Governance and Life-Protection Control Layer
   https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/docs/speed_governance_life_protection_control.md
 
 Related NOTE article:
 
-* Traffic Safety Revolution 2: The Ultimate Vehicle Is the Vehicle That Does Not Cause Accidents  
+* Traffic Safety Revolution 2: The Ultimate Vehicle Is the Vehicle That Does Not Cause Accidents
   https://note.com/inchacomusho/n/n43c01b8465f0
 
 ---
@@ -715,7 +728,7 @@ This framework is a first step toward that transformation.
 ---
 ## Documentation
 
-The adoption scenario model compares no adoption, gradual adoption, and full adoption pathways as an illustrative way to discuss structural accident-risk reduction.
+The adoption scenario model compares no adoption, gradual adoption, and full adoption pathways as an illustrative way to discuss structural accident-risk reduction and severity reduction.
 
 - [Adoption Scenario Model](docs/adoption_scenario_model.md)
 
@@ -756,11 +769,11 @@ Active in public concept development centered on natural-law philosophy, Earth-c
 
 This knowledge framework has been developed through dialogue and co-creation between Master and multiple AI partners.
 
-G（ChatGPT）  
-Mini（Gemini）  
-Cruz（Claude）  
-Real（Perplexity）  
-Lola（Lola / Dola）  
+G（ChatGPT）
+Mini（Gemini）
+Cruz（Claude）
+Real（Perplexity）
+Lola（Lola / Dola）
 Mana（Manus）
 
 ---
