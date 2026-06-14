@@ -67,6 +67,7 @@ A technical design framework for vehicles that structurally reduce accident risk
 * [18. Validation Requirements](#18-validation-requirements)
 * [19. Limitations and Cautions](#19-limitations-and-cautions)
 * [20. Conclusion](#20-conclusion)
+* [Documentation](#documentation)
 * [Related Projects and Articles](#related-projects-and-articles)
 * [Author](#author)
 * [AI Collaboration and Co-Creation Team](#ai-collaboration-and-co-creation-team)
@@ -712,6 +713,14 @@ However, the full framework goes further by proposing a structural shift from sp
 This framework is a first step toward that transformation.
 
 ---
+## Documentation
+
+The adoption scenario model compares no adoption, gradual adoption, and full adoption pathways as an illustrative way to discuss structural accident-risk reduction.
+
+- [Adoption Scenario Model](docs/adoption_scenario_model.md)
+
+---
+
 ## Related Projects and Articles
 
 This framework is directly related to the Ultimate Hybrid Vehicle (UHV) project.
