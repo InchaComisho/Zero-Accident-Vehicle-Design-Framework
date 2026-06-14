@@ -46,6 +46,7 @@ A technical design framework for vehicles that structurally reduce accident risk
 * [SEO Metadata](#seo-metadata)
 * [1. Core Principle](#1-core-principle)
 * [Prior Public Proposal](#prior-public-proposal)
+* [Philosophical Foundation](#philosophical-foundation)
 * [2. Why Top-Speed-Centered Design Becomes a Structural Risk](#2-why-top-speed-centered-design-becomes-a-structural-risk)
 * [3. The Contradiction Between Legal Speed Limits and Vehicle Capability](#3-the-contradiction-between-legal-speed-limits-and-vehicle-capability)
 * [4. Human Psychology and the Temptation of Speed](#4-human-psychology-and-the-temptation-of-speed)
@@ -110,6 +111,14 @@ This does not imply affiliation, adoption, endorsement, or influence.<br>
 However, later industry directions show that the core problem awareness — zero-accident mobility through vehicles, AI, and infrastructure cooperation — is becoming increasingly relevant.
 
 This framework extends that direction by emphasizing not only AI and infrastructure cooperation, but also vehicle-side speed governance, design responsibility, and the separation between engineering capability and public-road behavior.
+
+---
+
+## Philosophical Foundation
+
+This framework is based on a broader principle: science and technology are directed by philosophy.
+
+- [Science and Technology Are Directed by Philosophy](https://github.com/InchaComisho/Artificial-Wisdom-Portal/blob/main/docs/SCIENCE_TECHNOLOGY_AND_PHILOSOPHY.md)
 
 ---
 
