@@ -64,6 +64,7 @@
 * [18. 検証要件](#18-検証要件)
 * [19. 限界と注意事項](#19-限界と注意事項)
 * [20. 結論](#20-結論)
+* [関連プロジェクト・関連記事](#関連プロジェクト関連記事)
 * [著者](#著者)
 * [協力AIと共創チーム](#協力aiと共創チーム)
 * [公開月](#公開月)
@@ -694,6 +695,30 @@ Zero-Accident Vehicle Design Framework
 このフレームワークは、そのための第一歩である。
 
 ---
+## 関連プロジェクト・関連記事
+
+本フレームワークは、Ultimate Hybrid Vehicle（UHV）構想と直接関係する。
+
+UHVは、気候適応型モビリティを提案する。
+事故を起こさない自動車設計フレームワークは、生命保護型モビリティを提案する。
+
+両者を合わせることで、次世代自動車の方向性は次のように整理できる。
+
+- UHV：気候に適応する車
+- Zero-Accident Vehicle：事故リスクを構造的に減らす車
+- 統合像：気候にも人命にも適応する次世代モビリティ
+
+関連リンク：
+
+- [究極のハイブリッド車 UHV 構想案](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README_ja.md)
+- [Ultimate Hybrid Vehicle UHV Concept](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README.md)
+- [مفهوم المركبة الهجينة القصوى UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README_ar.md)
+- [UHV Speed Governance and Life-Protection Control Layer](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/docs/speed_governance_life_protection_control.md)
+- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+
 
 ## 著者
 

@@ -66,6 +66,7 @@ A technical design framework for vehicles that structurally reduce accident risk
 * [18. Validation Requirements](#18-validation-requirements)
 * [19. Limitations and Cautions](#19-limitations-and-cautions)
 * [20. Conclusion](#20-conclusion)
+* [Related Projects and Articles](#related-projects-and-articles)
 * [Author](#author)
 * [AI Collaboration and Co-Creation Team](#ai-collaboration-and-co-creation-team)
 * [Publication Month](#publication-month)
@@ -702,6 +703,26 @@ However, the full framework goes further by proposing a structural shift from sp
 This framework is a first step toward that transformation.
 
 ---
+## Related Projects and Articles
+
+This framework is directly related to the Ultimate Hybrid Vehicle (UHV) project.
+
+UHV proposes climate-adaptive mobility.
+The Zero-Accident Vehicle Design Framework proposes life-protection mobility.
+
+Together, they suggest a broader next-generation vehicle philosophy: future vehicles should not only reduce emissions or adapt to climate. They should also structurally reduce avoidable accident risk.
+
+Related links:
+
+- [Ultimate Hybrid Vehicle UHV Concept](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README.md)
+- [究極のハイブリッド車 UHV 構想案](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README_ja.md)
+- [مفهوم المركبة الهجينة القصوى UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README_ar.md)
+- [UHV Speed Governance and Life-Protection Control Layer](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/docs/speed_governance_life_protection_control.md)
+- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+
 
 ## Author
 

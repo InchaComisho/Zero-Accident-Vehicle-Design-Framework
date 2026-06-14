@@ -66,6 +66,7 @@
 * [18. متطلبات التحقق](#18-متطلبات-التحقق)
 * [19. القيود والتحذيرات](#19-القيود-والتحذيرات)
 * [20. الخاتمة](#20-الخاتمة)
+* [المشاريع والمقالات ذات الصلة](#المشاريع-والمقالات-ذات-الصلة)
 * [المؤلف](#المؤلف)
 * [فريق التعاون المشترك مع الذكاء الاصطناعي](#فريق-التعاون-المشترك-مع-الذكاء-الاصطناعي)
 * [شهر النشر](#شهر-النشر)
@@ -702,6 +703,26 @@ UHV
 هذا الإطار هو خطوة أولى نحو ذلك التحول.
 
 ---
+## المشاريع والمقالات ذات الصلة
+
+يرتبط هذا الإطار مباشرة بمشروع المركبة الهجينة القصوى UHV.
+
+يقترح UHV تنقلًا متكيفًا مع المناخ.
+ويقترح إطار تصميم المركبة التي لا تُسبب الحوادث تنقلًا متمحورًا حول حماية الحياة.
+
+معًا، يقترحان فلسفة أوسع للجيل التالي من المركبات: مركبات لا تتكيف مع المناخ فقط، بل تقلل أيضًا مخاطر الحوادث القابلة للتجنب بشكل بنيوي.
+
+روابط ذات صلة:
+
+- [مفهوم المركبة الهجينة القصوى UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README_ar.md)
+- [Ultimate Hybrid Vehicle UHV Concept](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README.md)
+- [究極のハイブリッド車 UHV 構想案](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README_ja.md)
+- [UHV Speed Governance and Life-Protection Control Layer](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/docs/speed_governance_life_protection_control.md)
+- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+
 
 ## المؤلف
 
