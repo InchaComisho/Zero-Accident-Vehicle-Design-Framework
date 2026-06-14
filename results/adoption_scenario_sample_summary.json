@@ -1,0 +1,83 @@
+{
+  "disclaimer": "This is an illustrative assumption-based severity-aware scenario model.\nIt is not a certified safety forecast.\nIt does not guarantee accident, fatality, or severe-injury reduction.\nReal-world outcomes require empirical traffic data, regional validation, legal review, and safety engineering.",
+  "note": "This is an illustrative assumption-based scenario output. Not a certified safety forecast.",
+  "assumptions": {
+    "baseline_accidents": 100000.0,
+    "baseline_fatalities": 1000.0,
+    "baseline_severe_injuries": 5000.0,
+    "baseline_minor_injuries": 30000.0,
+    "years": 20,
+    "gradual_final_adoption": 0.8,
+    "full_adoption": 1.0,
+    "annual_risk_growth": 0.0,
+    "accident_reduction_effect": 0.35,
+    "fatality_reduction_effect": 0.8,
+    "severe_injury_reduction_effect": 0.7,
+    "minor_injury_reduction_effect": 0.2,
+    "severity_shift_factor": 0.3,
+    "interaction_cap": 0.9
+  },
+  "cumulative_totals": {
+    "no_adoption": {
+      "accidents": 2000000.0,
+      "fatalities": 20000.0,
+      "severe_injuries": 100000.0,
+      "minor_injuries": 600000.0
+    },
+    "gradual_adoption": {
+      "accidents": 1720000.0,
+      "fatalities": 13600.0,
+      "severe_injuries": 72000.0,
+      "minor_injuries": 562320.0
+    },
+    "full_adoption": {
+      "accidents": 1300000.0,
+      "fatalities": 4000.0,
+      "severe_injuries": 30000.0,
+      "minor_injuries": 505800.0
+    }
+  },
+  "cumulative_prevented_vs_no_adoption": {
+    "gradual_adoption": {
+      "accidents": 280000.0,
+      "fatalities": 6400.0,
+      "severe_injuries": 28000.0,
+      "minor_injuries": 37680.0
+    },
+    "full_adoption": {
+      "accidents": 700000.0,
+      "fatalities": 16000.0,
+      "severe_injuries": 70000.0,
+      "minor_injuries": 94200.0
+    }
+  },
+  "cumulative_prevented_gradual_vs_full": {
+    "accidents": 420000.0,
+    "fatalities": 9600.0,
+    "severe_injuries": 42000.0,
+    "minor_injuries": 56520.0
+  },
+  "final_year_snapshot": {
+    "year": 20,
+    "no_adoption": {
+      "accidents": 100000.0,
+      "fatalities": 1000.0,
+      "severe_injuries": 5000.0,
+      "minor_injuries": 30000.0
+    },
+    "gradual_adoption": {
+      "rate": 0.8,
+      "accidents": 72000.0,
+      "fatalities": 360.0,
+      "severe_injuries": 2200.0,
+      "minor_injuries": 26232.0
+    },
+    "full_adoption": {
+      "rate": 1.0,
+      "accidents": 65000.0,
+      "fatalities": 200.0,
+      "severe_injuries": 1500.0,
+      "minor_injuries": 25290.0
+    }
+  }
+}

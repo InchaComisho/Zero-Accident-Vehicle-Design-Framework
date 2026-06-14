@@ -747,7 +747,11 @@ Zero-Accident Vehicle Design Framework
 
 導入シナリオ比較モデルは、未導入、段階的導入、完全導入を比較し、事故リスクの構造的低減と重症度低減を議論するための概念的モデルである。
 
+読者がローカルでシミュレーターを実行しなくても、未導入、段階的導入、完全導入の違いを確認できるよう、サンプル結果表とグラフを掲載している。
+
 - [導入シナリオ比較モデル](docs/adoption_scenario_model_ja.md)
+- [サンプルシミュレーション結果](docs/sample_simulation_results_ja.md)
+- [サンプル結果表](results/adoption_scenario_sample_results.md)
 
 ---
 

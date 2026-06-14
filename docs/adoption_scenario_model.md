@@ -157,3 +157,16 @@ Validation should include different road types, weather conditions, vehicle cate
 The adoption scenario model is a severity-aware conceptual simulation for comparing no adoption, gradual adoption, and full adoption pathways.
 
 It is an illustrative comparison of structural accident-risk reduction and severity reduction under explicit assumptions. It is not a certified safety forecast, does not guarantee accident, fatality, or severe-injury reduction, and requires real-world validation before any safety claim can be made.
+
+## Sample Output
+
+Sample output files are available here:
+
+- [Sample results table](../results/adoption_scenario_sample_results.md)
+- [Sample results CSV](../results/adoption_scenario_sample_results.csv)
+- [Sample summary JSON](../results/adoption_scenario_sample_summary.json)
+- [Sample simulation results](sample_simulation_results.md)
+
+![Illustrative fatalities scenario](../images/adoption_scenario_fatalities.png)
+![Illustrative severe injuries scenario](../images/adoption_scenario_severe_injuries.png)
+![Illustrative total accidents scenario](../images/adoption_scenario_total_accidents.png)

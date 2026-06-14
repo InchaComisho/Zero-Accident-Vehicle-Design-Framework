@@ -154,3 +154,16 @@
 導入シナリオ比較モデルは、未導入、段階的導入、完全導入を比較するための重症度別の概念シミュレーションである。
 
 これは明示された仮定に基づく事故リスクの構造的低減と重症度低減の説明的比較であり、認証済み安全予測ではない。事故、死亡、重傷の低減を保証せず、いかなる安全主張にも実世界での検証が必要である。
+
+## サンプル出力
+
+サンプル出力ファイルは以下に掲載している。
+
+- [サンプル結果表](../results/adoption_scenario_sample_results.md)
+- [サンプル結果CSV](../results/adoption_scenario_sample_results.csv)
+- [サンプル要約JSON](../results/adoption_scenario_sample_summary.json)
+- [サンプルシミュレーション結果](sample_simulation_results_ja.md)
+
+![死亡者数の概念シナリオ](../images/adoption_scenario_fatalities.png)
+![重傷者数の概念シナリオ](../images/adoption_scenario_severe_injuries.png)
+![総事故件数の概念シナリオ](../images/adoption_scenario_total_accidents.png)

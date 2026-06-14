@@ -751,7 +751,11 @@ This framework is a first step toward that transformation.
 
 The adoption scenario model compares no adoption, gradual adoption, and full adoption pathways as an illustrative way to discuss structural accident-risk reduction and severity reduction.
 
+Sample result tables and graphs are included so readers can understand the difference between no adoption, gradual adoption, and full adoption without running the simulator locally.
+
 - [Adoption Scenario Model](docs/adoption_scenario_model.md)
+- [Sample Simulation Results](docs/sample_simulation_results.md)
+- [Sample Results Table](results/adoption_scenario_sample_results.md)
 
 ---
 

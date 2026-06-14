@@ -157,3 +157,16 @@
 نموذج سيناريوهات التبني هو محاكاة مفاهيمية تراعي شدة النتائج لمقارنة عدم التبني، والتبني التدريجي، والتبني الكامل.
 
 إنه مقارنة توضيحية لتقليل مخاطر الحوادث بنيويًا وتقليل شدة النتائج وفق افتراضات معلنة. وليس توقعًا معتمدًا للسلامة، ولا يضمن تقليل الحوادث أو الوفيات أو الإصابات الخطيرة، ويتطلب تحققًا ميدانيًا قبل تقديم أي ادعاء متعلق بالسلامة.
+
+## مخرجات توضيحية
+
+تتوفر ملفات المخرجات التوضيحية هنا:
+
+- [جدول النتائج التوضيحية](../results/adoption_scenario_sample_results.md)
+- [ملف CSV للنتائج](../results/adoption_scenario_sample_results.csv)
+- [ملخص JSON](../results/adoption_scenario_sample_summary.json)
+- [نتائج المحاكاة التوضيحية](sample_simulation_results_ar.md)
+
+![سيناريو توضيحي للوفيات](../images/adoption_scenario_fatalities.png)
+![سيناريو توضيحي للإصابات الخطيرة](../images/adoption_scenario_severe_injuries.png)
+![سيناريو توضيحي لإجمالي الحوادث](../images/adoption_scenario_total_accidents.png)
