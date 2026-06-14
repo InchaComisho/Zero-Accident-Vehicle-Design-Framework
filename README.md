@@ -49,22 +49,23 @@ A technical design framework for vehicles that structurally reduce accident risk
 * [2. Why Top-Speed-Centered Design Becomes a Structural Risk](#2-why-top-speed-centered-design-becomes-a-structural-risk)
 * [3. The Contradiction Between Legal Speed Limits and Vehicle Capability](#3-the-contradiction-between-legal-speed-limits-and-vehicle-capability)
 * [4. Human Psychology and the Temptation of Speed](#4-human-psychology-and-the-temptation-of-speed)
-* [5. From Driver Blame to Design Responsibility](#5-from-driver-blame-to-design-responsibility)
-* [6. System Architecture](#6-system-architecture)
-* [7. Legal-Speed-Linked Speed Governance](#7-legal-speed-linked-speed-governance)
+* [5. Historical Design Reflection](#5-historical-design-reflection)
+* [6. From Driver Blame to Design Responsibility](#6-from-driver-blame-to-design-responsibility)
+* [7. System Architecture](#7-system-architecture)
+* [8. Legal-Speed-Linked Speed Governance](#8-legal-speed-linked-speed-governance)
 * [Hardware-Limited and Software-Governed Speed Architecture](#hardware-limited-and-software-governed-speed-architecture)
-* [8. In-Cabin Cameras and Driver Monitoring](#8-in-cabin-cameras-and-driver-monitoring)
-* [9. AI Monitoring of Lane Position, Following Distance, and Surroundings](#9-ai-monitoring-of-lane-position-following-distance-and-surroundings)
-* [10. Protection of Pedestrians, Bicycles, Motorcycles, and Scooters](#10-protection-of-pedestrians-bicycles-motorcycles-and-scooters)
-* [11. Smartphones, Wi-Fi, Bluetooth, UWB, and Safety Beacons](#11-smartphones-wi-fi-bluetooth-uwb-and-safety-beacons)
-* [12. Intersection Wi-Fi and Urban Safety Infrastructure](#12-intersection-wi-fi-and-urban-safety-infrastructure)
-* [13. Relationship With Automated Driving Technologies](#13-relationship-with-automated-driving-technologies)
-* [14. Required Vehicle Functions](#14-required-vehicle-functions)
-* [15. Implementation Roadmap](#15-implementation-roadmap)
-* [16. Relationship With UHV](#16-relationship-with-uhv)
-* [17. Validation Requirements](#17-validation-requirements)
-* [18. Limitations and Cautions](#18-limitations-and-cautions)
-* [19. Conclusion](#19-conclusion)
+* [9. In-Cabin Cameras and Driver Monitoring](#9-in-cabin-cameras-and-driver-monitoring)
+* [10. AI Monitoring of Lane Position, Following Distance, and Surroundings](#10-ai-monitoring-of-lane-position-following-distance-and-surroundings)
+* [11. Protection of Pedestrians, Bicycles, Motorcycles, and Scooters](#11-protection-of-pedestrians-bicycles-motorcycles-and-scooters)
+* [12. Smartphones, Wi-Fi, Bluetooth, UWB, and Safety Beacons](#12-smartphones-wi-fi-bluetooth-uwb-and-safety-beacons)
+* [13. Intersection Wi-Fi and Urban Safety Infrastructure](#13-intersection-wi-fi-and-urban-safety-infrastructure)
+* [14. Relationship With Automated Driving Technologies](#14-relationship-with-automated-driving-technologies)
+* [15. Required Vehicle Functions](#15-required-vehicle-functions)
+* [16. Implementation Roadmap](#16-implementation-roadmap)
+* [17. Relationship With UHV](#17-relationship-with-uhv)
+* [18. Validation Requirements](#18-validation-requirements)
+* [19. Limitations and Cautions](#19-limitations-and-cautions)
+* [20. Conclusion](#20-conclusion)
 * [Author](#author)
 * [AI Collaboration and Co-Creation Team](#ai-collaboration-and-co-creation-team)
 * [Publication Month](#publication-month)
@@ -169,7 +170,23 @@ It is treated as a mechanism for protecting people from momentary impulse, overc
 
 ---
 
-## 5. From Driver Blame to Design Responsibility
+## 5. Historical Design Reflection
+
+If automobiles and motorcycles had been designed from the beginning with life protection above speed performance, the history of road traffic might have contained fewer tragedies.
+
+For a long time, the automotive industry developed around speed, acceleration, power, driving performance, comfort, and ownership value.
+
+These values are part of technological development and should not be dismissed entirely.
+
+However, on public roads as shared spaces, the highest design priority should be life, not speed.
+
+Future vehicle design should face this historical contradiction not simply to blame the past, but to move toward a new design philosophy.
+
+Future vehicles should be evaluated not by how fast they can go, but by how structurally they reduce accident risk.
+
+---
+
+## 6. From Driver Blame to Design Responsibility
 
 Traffic accidents should not be interpreted only as individual driver failures.
 
@@ -194,7 +211,7 @@ Vehicles that govern speed and behavior to protect life
 
 ---
 
-## 6. System Architecture
+## 7. System Architecture
 
 A zero-accident-oriented vehicle cannot be realized by a single device.
 It requires an integrated system connecting the vehicle, driver, road, pedestrians, two-wheeled vehicles, communication infrastructure, urban systems, regulation, and AI control.
@@ -227,7 +244,7 @@ Depending on the situation, it may restrict speed, limit acceleration, assist br
 
 ---
 
-## 7. Legal-Speed-Linked Speed Governance
+## 8. Legal-Speed-Linked Speed Governance
 
 Speed governance is a system that controls vehicle speed according to legal speed limits, road conditions, weather, pedestrian proximity, intersections, and driver state.
 
@@ -294,7 +311,7 @@ Actual values must be determined by vehicle class, jurisdiction, emergency requi
 
 ---
 
-## 8. In-Cabin Cameras and Driver Monitoring
+## 9. In-Cabin Cameras and Driver Monitoring
 
 Driver-state monitoring is essential for accident-risk reduction.
 
@@ -337,7 +354,7 @@ It should exist to help protect the driver before an accident occurs.
 
 ---
 
-## 9. AI Monitoring of Lane Position, Following Distance, and Surroundings
+## 10. AI Monitoring of Lane Position, Following Distance, and Surroundings
 
 External cameras, radar, LiDAR, ultrasonic sensors, and AI image recognition can be combined to monitor the vehicle’s surroundings.
 
@@ -372,7 +389,7 @@ AI monitoring becomes more meaningful when it is integrated with speed governanc
 
 ---
 
-## 10. Protection of Pedestrians, Bicycles, Motorcycles, and Scooters
+## 11. Protection of Pedestrians, Bicycles, Motorcycles, and Scooters
 
 Pedestrians, bicycles, motorcycles, and scooters are especially vulnerable in traffic accidents.
 
@@ -399,7 +416,7 @@ Turning, lane changing, and intersection entry are especially important situatio
 
 ---
 
-## 11. Smartphones, Wi-Fi, Bluetooth, UWB, and Safety Beacons
+## 12. Smartphones, Wi-Fi, Bluetooth, UWB, and Safety Beacons
 
 Many pedestrians carry smartphones.
 Smartphones emit signals through Wi-Fi, Bluetooth, cellular communication, or other wireless technologies.
@@ -430,7 +447,7 @@ Therefore, the system must prevent personal identification, location-history tra
 
 ---
 
-## 12. Intersection Wi-Fi and Urban Safety Infrastructure
+## 13. Intersection Wi-Fi and Urban Safety Infrastructure
 
 It is not necessary to upgrade every road nationwide at once.
 
@@ -464,7 +481,7 @@ Such urban safety infrastructure can complement risks that vehicle sensors alone
 
 ---
 
-## 13. Relationship With Automated Driving Technologies
+## 14. Relationship With Automated Driving Technologies
 
 This framework does not require fully autonomous driving.
 
@@ -495,7 +512,7 @@ This framework emphasizes **life-protection driving control**, which may be impl
 
 ---
 
-## 14. Required Vehicle Functions
+## 15. Required Vehicle Functions
 
 A zero-accident-oriented vehicle design should include the following functions:
 
@@ -528,7 +545,7 @@ A zero-accident-oriented vehicle design should include the following functions:
 
 ---
 
-## 15. Implementation Roadmap
+## 16. Implementation Roadmap
 
 This framework should be introduced gradually.
 
@@ -578,7 +595,7 @@ This framework should be introduced gradually.
 
 ---
 
-## 16. Relationship With UHV
+## 17. Relationship With UHV
 
 This framework is independent from the **Ultimate Hybrid Vehicle (UHV)** concept, but it directly connects to the UHV **Speed Governance and Life-Protection Control Layer**.
 
@@ -613,7 +630,7 @@ Related NOTE article:
 
 ---
 
-## 17. Validation Requirements
+## 18. Validation Requirements
 
 Real-world implementation requires extensive validation, including:
 
@@ -639,7 +656,7 @@ Real-world implementation requires extensive validation, including:
 
 ---
 
-## 18. Limitations and Cautions
+## 19. Limitations and Cautions
 
 This framework does not guarantee zero accidents.
 
@@ -665,7 +682,7 @@ Any implementation requires independent validation, staged pilots, and legal cla
 
 ---
 
-## 19. Conclusion
+## 20. Conclusion
 
 Future vehicles should not be defined by top speed.
 Future vehicles should be defined by their ability to protect life.
