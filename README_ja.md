@@ -815,8 +815,8 @@ G（ChatGPT）
 引用・紹介・共有は歓迎するが、著者名と出典を明記すること。
 
 推奨ライセンス：
-Creative Commons Attribution-ShareAlike 4.0 International
-CC BY-SA 4.0
+Creative Commons Attribution 4.0 International
+CC BY 4.0
 
 ---
 

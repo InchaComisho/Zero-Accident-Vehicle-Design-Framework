@@ -815,8 +815,8 @@ This repository and document are released as an open concept by Master / inchaco
 Quoting, sharing, translation, and discussion are welcome, provided that the author name and source are clearly credited.
 
 Recommended license:
-Creative Commons Attribution-ShareAlike 4.0 International
-CC BY-SA 4.0
+Creative Commons Attribution 4.0 International
+CC BY 4.0
 
 ---
 

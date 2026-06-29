@@ -819,8 +819,8 @@ Mana（Manus）
 يُرحب بالاقتباس، والمشاركة، والترجمة، والنقاش، بشرط ذكر اسم المؤلف والمصدر بوضوح.
 
 الرخصة الموصى بها:
-Creative Commons Attribution-ShareAlike 4.0 International
-CC BY-SA 4.0
+Creative Commons Attribution 4.0 International
+CC BY 4.0
 
 ---
 
