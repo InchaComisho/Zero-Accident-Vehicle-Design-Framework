@@ -1,5 +1,7 @@
 # Zero-Accident Vehicle Design Framework
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Life-Protection-Centered Framework for Future Vehicle Design
 
 ### From Top-Speed-Centered Vehicle Design to Structural Accident-Risk Reduction

@@ -1,5 +1,7 @@
 # 事故を起こさない自動車設計フレームワーク
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Zero-Accident Vehicle Design Framework
 
 ### 速度性能中心の自動車設計から、生命保護中心の自動車設計へ
