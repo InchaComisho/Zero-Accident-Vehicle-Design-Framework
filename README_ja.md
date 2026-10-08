@@ -120,9 +120,6 @@
 
 関連NOTE記事：
 
-- [交通安全革命：速度制御の欠如が生んだ犠牲と未来の対策](https://note.com/inchacomusho/n/n8d32f338f8f0)
-- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
-
 これは、特定企業との提携、採用、承認、影響関係を主張するものではない。<br>
 しかし、後に自動車業界側からも類似した方向性が示されたことは、「車両・AI・インフラ協調による交通事故ゼロ」という問題意識が、産業的にも重要になっていることを示している。
 
@@ -670,7 +667,6 @@ Zero-Accident Vehicle Design Framework
 関連NOTE記事：
 
 * 交通安全革命2：究極の自動車とは、事故を起こさない車である
-  https://note.com/inchacomusho/n/n43c01b8465f0
 
 ---
 
@@ -776,7 +772,6 @@ UHVは、気候適応型モビリティを提案する。
 - [Ultimate Hybrid Vehicle UHV Concept](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README.md)
 - [مفهوم المركبة الهجينة القصوى UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README_ar.md)
 - [UHV Speed Governance and Life-Protection Control Layer](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/docs/speed_governance_life_protection_control.md)
-- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
 - [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
 - [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
 - [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)

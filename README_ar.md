@@ -120,9 +120,6 @@
 
 مقالات ذات صلة:
 
-- [Traffic Safety Revolution: The Sacrifices Caused by the Lack of Speed Control and Future Countermeasures](https://note.com/inchacomusho/n/n8d32f338f8f0)
-- [Traffic Safety Revolution 2: The Ultimate Vehicle Is the Vehicle That Does Not Cause Accidents](https://note.com/inchacomusho/n/n43c01b8465f0)
-
 هذا لا يعني وجود شراكة أو تبنٍ أو اعتماد أو تأثير على أي شركة أو جهة محددة.<br>
 ومع ذلك، فإن التوجهات الصناعية اللاحقة تُظهر أن الوعي الأساسي بالمشكلة — أي التنقل الخالي من الحوادث عبر المركبات والذكاء الاصطناعي والتعاون مع البنية التحتية — أصبح ذا أهمية متزايدة.
 
@@ -675,7 +672,6 @@ UHV
 مقال NOTE ذو الصلة:
 
 * Traffic Safety Revolution 2: The Ultimate Vehicle Is the Vehicle That Does Not Cause Accidents
-  https://note.com/inchacomusho/n/n43c01b8465f0
 
 ---
 
@@ -778,7 +774,6 @@ UHV
 - [Ultimate Hybrid Vehicle UHV Concept](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README.md)
 - [究極のハイブリッド車 UHV 構想案](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/README_ja.md)
 - [UHV Speed Governance and Life-Protection Control Layer](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV/blob/main/docs/speed_governance_life_protection_control.md)
-- [交通安全革命2：究極の自動車とは、事故を起こさない車である](https://note.com/inchacomusho/n/n43c01b8465f0)
 - [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
 - [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
 - [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
