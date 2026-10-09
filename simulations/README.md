@@ -1,5 +1,7 @@
 # Simulations
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This directory contains simple conceptual simulation tools for the Zero-Accident Vehicle Design Framework.
 
 ## Adoption Scenario Simulator

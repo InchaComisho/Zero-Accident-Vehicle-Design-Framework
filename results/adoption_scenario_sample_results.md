@@ -1,5 +1,7 @@
 # Sample Adoption Scenario Results
 
+[日本語版はこちら / Japanese version](adoption_scenario_sample_results_ja.md)
+
 This is an illustrative assumption-based scenario output.
 It is not a certified safety forecast and does not guarantee accident, fatality, or severe-injury reduction.
 
