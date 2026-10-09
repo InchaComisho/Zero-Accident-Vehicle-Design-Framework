@@ -1,5 +1,7 @@
 # Adoption Scenario Model
 
+[日本語版はこちら / Japanese version](adoption_scenario_model_ja.md)
+
 ## Overview
 
 This document introduces a conceptual scenario model comparing three pathways for the Zero-Accident Vehicle Design Framework:

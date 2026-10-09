@@ -1,5 +1,7 @@
 # Sample Simulation Results
 
+[日本語版はこちら / Japanese version](sample_simulation_results_ja.md)
+
 > **Disclaimer:** This page shows illustrative assumption-based sample outputs from the adoption scenario comparison model.
 > The numbers shown here do not predict real-world traffic accident counts.
 > They are conceptual outputs for comparing no adoption, gradual adoption, and full adoption under explicit assumptions.
