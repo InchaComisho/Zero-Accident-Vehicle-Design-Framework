@@ -77,7 +77,7 @@
 
 ## サンプル結果ファイル
 
-- [サンプル結果表](../results/adoption_scenario_sample_results.md)
+- [サンプル結果表](../results/adoption_scenario_sample_results_ja.md)
 - [サンプル結果CSV](../results/adoption_scenario_sample_results.csv)
 - [サンプル要約JSON](../results/adoption_scenario_sample_summary.json)
 

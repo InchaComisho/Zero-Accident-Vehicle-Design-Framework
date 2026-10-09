@@ -749,7 +749,7 @@ Zero-Accident Vehicle Design Framework
 
 - [導入シナリオ比較モデル](docs/adoption_scenario_model_ja.md)
 - [サンプルシミュレーション結果](docs/sample_simulation_results_ja.md)
-- [サンプル結果表](results/adoption_scenario_sample_results.md)
+- [サンプル結果表](results/adoption_scenario_sample_results_ja.md)
 
 ---
 
